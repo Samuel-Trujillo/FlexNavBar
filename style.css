@@ -4,10 +4,9 @@
     list-style: none;
 }
 .nav{
-    height: 50px;
-    width: 1000px;
     display: flex;
     align-items: center;
+    height: 50px;
     background-color: rgba(0, 0, 0, 0.774);
 }
 h1{ 
